@@ -4,12 +4,12 @@ Project ini menggunakan web https://www.demoblaze.com/ dan api untuk management 
 
 project ini menggunakan libarary yang digunakan
 
-cucumber framework
-selenium framework
-webdriver manager
-rest assure
-testng
-assertion
+-cucumber framework
+-selenium framework
+-webdriver manager
+-rest assure
+-testng
+-assertion
 
 instalasi proyek ini pada local environment
 
